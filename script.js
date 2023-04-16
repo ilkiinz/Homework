@@ -15,8 +15,12 @@ const FullName = firstName + ' ' + lastName;
 console.log(FullName, 'Tanışlığımıza çox şadam!')
 
 // tap 4
-const firstNam = 'Alan';
-const lastNam = 'Turing';
-const greet = `Sizi bir daha görməyimizə şadıq ${firstNam} ${lastNam}`;
+let firstNam = 'Alan';
+let lastNam = 'Turing';
+let greet = `Sizi bir daha görməyimizə şadıq ${firstNam} ${lastNam}`;
 console.log(greet)
+
 // tap 5 //
+
+let fullName = 'Alan Turing' ;
+console.log(fullName.length);
