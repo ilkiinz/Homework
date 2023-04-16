@@ -14,7 +14,7 @@ const lastName = 'Turing';
 const FullName = firstName + ' ' + lastName;
 console.log(FullName, 'Tanışlığımıza çox şadam!')
 
-// tap 4
+// tap 4//
 let firstNam = 'Alan';
 let lastNam = 'Turing';
 let greet = `Sizi bir daha görməyimizə şadıq ${firstNam} ${lastNam}`;
@@ -24,3 +24,10 @@ console.log(greet)
 
 let fullName = 'Alan Turing' ;
 console.log(fullName.length);
+
+// tap 6//
+const ad = 'Alan';
+const soyad= 'Turing';
+const tamAd = firstName + ' ' + lastName;
+console.log(ad.charAt (0))
+console.log(soyad.charAt(0))
