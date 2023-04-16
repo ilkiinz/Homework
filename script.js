@@ -35,3 +35,4 @@ console.log(soyad.charAt(0))
 // tap 7
 let Full = prompt("zehmet olmasa ad ve soyad daxil edin.");
 console.log(Full);
+
